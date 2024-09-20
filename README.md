@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Snehil BHatt</h1>
+<h1 align="center">Hi 👋, I'm Snehil Bhatt</h1>
 <h3 align="center">Aspiring Machine Learning Engineer with a strong foundation in mathematics, programming, and data analysis</h3>
 
 <h3 align="left">Connect with me:</h3>
